@@ -108,3 +108,16 @@ audio, video {
 #gif-container {
     margin-top: 50px; /* Adjust this value to fine-tune the vertical positioning */
   }
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* Adjust this value to fit the height of your GIF */
+    background-color: #f0f0f0; /* Optional: background color for the header */
+  }
+  
+  /* Optional: Adjust the size and positioning of the GIF within the header */
+  #header-gif {
+    width: 300px; /* Adjust the width of the GIF */
+    height: auto; /* Maintain aspect ratio */
+  }
