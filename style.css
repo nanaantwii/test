@@ -105,4 +105,6 @@ audio, video {
     margin: 20px
 }
 /*
-
+#gif-container {
+    margin-top: 50px; /* Adjust this value to fine-tune the vertical positioning */
+  }
